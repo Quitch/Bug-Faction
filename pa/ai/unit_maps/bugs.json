@@ -33,6 +33,9 @@
     "BugBasicNavalDefense": {
       "spec_id": "/pa/units/structure/bug_basic_torp/bug_basic_torp.json"
     },
+    "BugAdvancedNavalDefense": {
+      "spec_id": "/pa/units/structure/bug_advanced_torp/bug_advanced_torp.json"
+    },
     "BugUmbrella": {
       "spec_id": "/pa/units/structure/bug_anti_orbital/bug_anti_orbital.json"
     },

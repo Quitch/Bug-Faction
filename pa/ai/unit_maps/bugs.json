@@ -129,12 +129,6 @@
     "BugStorage": {
       "spec_id": "/pa/units/structure/bug_combined_storage/bug_combined_storage.json"
     },
-    "BugBasicEvolutionChamber": {
-      "spec_id": "/pa/units/research/basic_research_station/basic_research_station.json"
-    },
-    "BugAdvancedEvolutionChamber": {
-      "spec_id": "/pa/units/research/advanced_research_station/advanced_research_station.json"
-    },
     "StealthRipperUnlock": {
       "spec_id": "/pa/units/research/unlocks/bug_ripper_stealth_unlock/research_ripper.json"
     },

@@ -81,6 +81,9 @@
     "SwarmHive": {
       "spec_id": "/pa/units/structure/bug_swarm_hive/bug_swarm_hive.json"
     },
+    "Belcher": {
+      "spec_id": "/pa/units/land/bug_belcher/bug_belcher.json"
+    },
     "BugOrbitalLauncher": {
       "spec_id": "/pa/units/structure/bug_orbital_launcher/bug_orbital_launcher.json"
     },

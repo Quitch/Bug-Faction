@@ -1308,7 +1308,7 @@
           },
           {
             "test_type": "UnitCountInBase",
-            "unit_type_string0": "Structure & (BugHalley | ControlModule)",
+            "unit_type_string0": "Structure & (PlanetEngine | ControlModule)",
             "compare0": ">",
             "value0": 0
           },
@@ -1411,7 +1411,7 @@
           },
           {
             "test_type": "UnitCountInBase",
-            "unit_type_string0": "Structure & (BugHalley | ControlModule)",
+            "unit_type_string0": "Structure & (PlanetEngine | ControlModule)",
             "compare0": ">",
             "value0": 0
           },
@@ -1530,7 +1530,7 @@
           },
           {
             "test_type": "UnitCountInBase",
-            "unit_type_string0": "Structure & (BugHalley | ControlModule)",
+            "unit_type_string0": "Structure & (PlanetEngine | ControlModule)",
             "compare0": ">",
             "value0": 0
           },
@@ -1640,7 +1640,7 @@
           },
           {
             "test_type": "UnitCountInBase",
-            "unit_type_string0": "Structure & (BugHalley | ControlModule)",
+            "unit_type_string0": "Structure & (PlanetEngine | ControlModule)",
             "compare0": ">",
             "value0": 0
           },
@@ -1666,7 +1666,7 @@
           },
           {
             "test_type": "UnitCountInBase",
-            "unit_type_string0": "Structure & (BugHalley | ControlModule)",
+            "unit_type_string0": "Structure & (PlanetEngine | ControlModule)",
             "compare0": ">",
             "value0": 0
           },

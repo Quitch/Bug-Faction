@@ -42,6 +42,9 @@
     "BugNuke": {
       "spec_id": "/pa/units/structure/bug_nuke/bug_nuke.json"
     },
+    "BugNukeMissile": {
+      "spec_id": "/pa/units/structure/bug_nuke/ammo/bug_nuke_ammo.json"
+    },
     "BugAntiNuke": {
       "spec_id": "/pa/units/structure/bug_anti_nuke/bug_anti_nuke.json"
     },

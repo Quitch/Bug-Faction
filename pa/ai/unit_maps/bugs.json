@@ -30,6 +30,9 @@
     "BugAntiNuke": {
       "spec_id": "/pa/units/structure/bug_anti_nuke/bug_anti_nuke.json"
     },
+    "BugBasicNavalDefense": {
+      "spec_id": "/pa/units/structure/bug_basic_torp/bug_basic_torp.json"
+    },
     "BugUmbrella": {
       "spec_id": "/pa/units/structure/bug_anti_orbital/bug_anti_orbital.json"
     },

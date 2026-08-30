@@ -9,26 +9,8 @@
     "AnyBugFabberBasic": {
       "unit_types": "(Fabber & (Basic | Debug) & Custom2) - Orbital"
     },
-    "AnyBugFactoryAdvanced": {
-      "unit_types": "(Factory & Advanced & Construction) & Custom2"
-    },
-    "AnyBugFactoryAir": {
-      "unit_types": "(Factory & Air & Construction) & Custom2"
-    },
-    "AnyBugFactoryBasic": {
-      "unit_types": "(Factory & Basic & Construction) & Custom2"
-    },
-    "AnyBugFactoryBot": {
-      "unit_types": "(Factory & Bot & Construction) & Custom2"
-    },
-    "AnyBugFactoryNaval": {
-      "unit_types": "(Factory & Naval & Construction) & Custom2"
-    },
     "AnyBugFactoryOrbital": {
       "unit_types": "(Factory & Orbital & Construction) & Custom2 - Artillery"
-    },
-    "AnyBugFactoryVehicle": {
-      "unit_types": "(Factory & Tank & Construction) & Custom2"
     },
     "BugCatalyst": {
       "spec_id": "/pa/units/structure/bug_catalyst/bug_catalyst.json"
@@ -47,12 +29,6 @@
     },
     "BugAntiNuke": {
       "spec_id": "/pa/units/structure/bug_anti_nuke/bug_anti_nuke.json"
-    },
-    "BoomerEgg": {
-      "spec_id": "/pa/units/structure/bug_mine/bug_mine.json"
-    },
-    "BigBoomerEgg": {
-      "spec_id": "/pa/units/structure/bug_mine_big/bug_mine_big.json"
     },
     "BugUmbrella": {
       "spec_id": "/pa/units/structure/bug_anti_orbital/bug_anti_orbital.json"
@@ -83,9 +59,6 @@
     },
     "SmallSpitterTurret": {
       "spec_id": "/pa/units/structure/bug_turret_small/bug_turret_small.json"
-    },
-    "LargeSpitterTurret": {
-      "spec_id": "/pa/units/structure/bug_turret_large/bug_turret_large.json"
     },
     "AcidTurret": {
       "spec_id": "/pa/units/structure/bug_turret_acid/bug_turret_acid.json"
@@ -162,9 +135,6 @@
     "Stheno": {
       "spec_id": "/pa/units/air/bug_bomber_adv/bug_bomber_adv.json"
     },
-    "BugBasicAirScout": {
-      "spec_id": "/pa/units/air/bug_air_scout/bug_air_scout.json"
-    },
     "BugBasicAirFabber": {
       "spec_id": "/pa/units/air/bug_air_fab/bug_air_fab.json"
     },
@@ -209,9 +179,6 @@
     },
     "Boomer": {
       "spec_id": "/pa/units/land/bug_boomer/bug_boomer.json"
-    },
-    "MineBoomer": {
-      "spec_id": "/pa/units/land/bug_boomer/bug_boomer_r.json"
     },
     "AlphaBoomer": {
       "spec_id": "/pa/units/land/bug_boomer_big/bug_boomer_big.json"

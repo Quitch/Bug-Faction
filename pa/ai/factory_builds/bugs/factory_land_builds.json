@@ -328,7 +328,7 @@
           },
           {
             "test_type": "UnitRatioOnPlanet",
-            "unit_type_string0": "(Tank | Bot) & SelfDestruct & Mobil",
+            "unit_type_string0": "(Tank | Bot) & SelfDestruct & Mobile",
             "unit_type_string1": "((Tank | Bot) & Offense & Mobile) - Fabber",
             "compare0": "<",
             "value0": 0.1

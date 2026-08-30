@@ -355,6 +355,7 @@
         "/pa/units/sea/fabrication_barge/fabrication_barge.json",
         "/pa/units/sea/hover_ship/hover_ship.json",
         "/pa/units/land/radar_jammer/radar_jammer.json",
-        "/pa/units/land/tank_jammer/tank_jammer.json"
+        "/pa/units/land/tank_jammer/tank_jammer.json",
+        "/pa/units/orbital/orbital_mine/orbital_mine.json"
     ]
 }

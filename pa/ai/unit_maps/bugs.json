@@ -93,9 +93,6 @@
     "NeedleTurret": {
       "spec_id": "/pa/units/structure/bug_turret_needle/bug_turret_needle.json"
     },
-    "BeamTurret": {
-      "spec_id": "/pa/units/structure/bug_turret_spray/bug_turret_spray.json"
-    },
     "AdvancedHive": {
       "spec_id": "/pa/units/structure/advanced_hive/advanced_hive.json"
     },
